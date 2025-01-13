@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+textarea, input {
+    border-radius: 4px;
+}
+button {
+    border-radius: 5px;
+    font-weight: bold;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
